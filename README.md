@@ -50,6 +50,6 @@ Lo que aprendí:
 
 
 Capturas de pantalla
-<img src="assets/home.png" width="240" height="480"/>
-<img src="assets/login.png" width="240" height="480"/>
-<img src="assets/printdata.png" width="240" height="480"/>
+<img src="icons/home.png" width="240" height="480"/>
+<img src="icons/login.png" width="240" height="480"/>
+<img src="icons/printdata.png" width="240" height="480"/>
